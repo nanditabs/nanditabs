@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanditabs
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning AWS,python
 - 💞️ I’m looking to collaborate on Anything which is intresting
 - 📫 How to reach me https://nanditadev.com/contact
 
